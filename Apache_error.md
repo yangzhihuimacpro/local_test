@@ -1,4 +1,4 @@
-# Apache 不知原因的无法启动
+# Apache 因信号量爆满而导致的无法启动
  看error log有报错，提示
  ![1.png](https://raw.githubusercontent.com/yangzhihuimacpro/local_test/master/image001.png)
  
